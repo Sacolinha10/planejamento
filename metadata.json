@@ -1,0 +1,6 @@
+{
+  "name": "Planejamento Financeiro Anual & Mensal",
+  "description": "Sistema completo de planejamento financeiro com orçamento previsto vs realizado, despesas fixas e variáveis, economias, amortização de dívidas e visão consolidada de janeiro a dezembro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
